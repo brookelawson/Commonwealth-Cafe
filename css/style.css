@@ -32,6 +32,9 @@ p.big {
   width: 300px;
 }
 
+#left { left: 0; }
+#right { right: 0; }
+
 body{
   margin-left: 100px;
   margin-right: 100px;
