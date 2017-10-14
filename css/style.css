@@ -26,7 +26,7 @@ p.big {
 
 #left, #right {
   background-color: #D3D3D3;
-  position: relative;
+  position: fixed;
   top: 0;
   bottom: 0;
   width: 100px;
