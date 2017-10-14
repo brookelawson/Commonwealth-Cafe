@@ -26,10 +26,10 @@ p.big {
 
 #left, #right {
   background-color: #D3D3D3;
-  position: fixed;
+  position: relative;
   top: 0;
   bottom: 0;
-  width: 300px;
+  width: 100px;
 }
 
 #left { left: 0; }
