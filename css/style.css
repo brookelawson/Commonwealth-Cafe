@@ -24,14 +24,12 @@ p.big {
   line-height: 1.8;
 }
 
-#side {
-  background-color: gray;
+#left, #right {
+  background-color: #D3D3D3;
   position: fixed;
   top: 0;
   bottom: 0;
-  left: 10%;
-  right: 0;
-  z-index: -1;
+  width: 300px;
 }
 
 body{
