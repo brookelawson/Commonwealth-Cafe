@@ -24,13 +24,16 @@ p.big {
   line-height: 1.8;
 }
 
-#left, #right {
-  background-color: #D3D3D3;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  width: 100px;
+@media only screen and (min-width: 1140px) {
+  #left, #right {
+    background-color: #D3D3D3;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100px;
+  }
 }
+
 
 #left { left: 0; }
 #right { right: 0; }
