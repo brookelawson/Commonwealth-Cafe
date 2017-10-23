@@ -47,3 +47,7 @@ big {
   margin-left: 100px;
   margin-right: 100px;
 }
+
+#footer {
+  line-height: 150%;
+}
