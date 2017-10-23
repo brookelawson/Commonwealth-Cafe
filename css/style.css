@@ -44,8 +44,9 @@ font-family: 'Libre Franklin', sans-serif;
 .container-fluid{
   background-color: white;
   padding-bottom: 60px;
+  padding-top: 0px;
 }
 
 .row{
-  padding-top: 100px;
+  padding-top: 80px;
 }
