@@ -20,8 +20,8 @@ font-family: 'Libre Franklin', sans-serif;
   font-size: 25px;
 }
 
-big {
-  line-height: 1.8;
+#big {
+  line-height: 150%;
 }
 
 @media only screen and (min-width: 1140px) {
@@ -46,8 +46,4 @@ big {
 #body{
   margin-left: 100px;
   margin-right: 100px;
-}
-
-#footer {
-  line-height: 150%;
 }
